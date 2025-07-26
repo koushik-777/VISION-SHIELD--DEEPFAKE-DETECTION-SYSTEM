@@ -1,5 +1,5 @@
 # 🛡️ VISION SHIELD – Deepfake Detection System  
-🔗 **Demo (For Showcase Only)**
+🔗 **Demo (For Showcase Only)** -https://dfdemo-3pjpxofaxxv6bdegjk7tiq.streamlit.app/
 
 ⚠️ *This is a demo deployment. For full functionality, clone the repo and run locally.*
 
