@@ -7,7 +7,7 @@ streamlit>=1.28.0
 # PyTorch CPU-only (smaller, faster for deployment)
 torch==2.7.1
 
-torchvision==0.15.2+cpu
+torchvision==0.22.1
 --find-links https://download.pytorch.org/whl/torch_stable.html
 
 # Computer Vision and Video Processing
